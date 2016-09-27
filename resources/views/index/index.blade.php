@@ -67,7 +67,7 @@
                   <div class="content-area">
                     <h3>¿Necesita ayuda legal?</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit eos, quod, earum aspernatur officiis.</p>                 
-                    <a href="contact.html" class="call-us-buttom">Hacer una cita</a>
+                    <a href="contacto" class="call-us-buttom">Hacer una cita</a>
 
                   </div>
                 </div>
@@ -97,7 +97,7 @@
            <div class="row">
                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                  <div class="about-lawyer-featured-image">
-                   <a href="about.html"><img src="assets/img/about.png" alt="about"></a>
+                   <a href="nosotros"><img src="assets/img/about.png" alt="about"></a>
                  </div>
                </div>
                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
@@ -112,7 +112,7 @@ molestie ipsum volutpat quis. Suspendisse consectetur fringilla suctus.</p>
                      <li>Asesoramiento Gratuito</li>
                    </ul>
                    <div class="read-more-button">
-                     <a href="about.html">Leer Más</a>
+                     <a href="nosotros">Leer Más</a>
                    </div>
                  </div>
                </div>
@@ -137,60 +137,60 @@ molestie ipsum volutpat quis. Suspendisse consectetur fringilla suctus.</p>
               <div class="single-practice">
                 <div class="single-practice-content">
                  <i class="fa fa-users"></i>
-                 <h3><a href="single-practice.html">Derecho Burocrático</a></h3>
+                 <h3><a href="single-practice">Derecho Burocrático</a></h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                  <div class="read-more">
-                   <a href="single-practice.html">Leer Más</a>
+                   <a href="single-practice">Leer Más</a>
                  </div>
                 </div>        
               </div>        
               <div class="single-practice">
                 <div class="single-practice-content">
                  <i class="fa fa-pencil-square-o"></i>
-                 <h3><a href="single-practice.html">Derecho Familiar</a></h3>
+                 <h3><a href="single-practice">Derecho Familiar</a></h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                  <div class="read-more">
-                   <a href="single-practice.html">Leer Más</a>
+                   <a href="single-practice">Leer Más</a>
                  </div>
                 </div>        
               </div>        
               <div class="single-practice">
                   <div class="single-practice-content">
                 <i class="fa fa-briefcase"></i>
-                 <h3><a href="single-practice.html">Derecho Laboral</a></h3>
+                 <h3><a href="single-practice">Derecho Laboral</a></h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                  <div class="read-more">
-                   <a href="single-practice.html">Leer Más</a>
+                   <a href="single-practice">Leer Más</a>
                  </div>
                 </div>        
               </div>        
               <div class="single-practice">
                    <div class="single-practice-content">
                  <i class="fa fa-users"></i>
-                 <h3><a href="single-practice.html">Derecho Penal Empresarial</a></h3>
+                 <h3><a href="single-practice">Derecho Penal Empresarial</a></h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                  <div class="read-more">
-                   <a href="single-practice.html">Leer Más</a>
+                   <a href="single-practice">Leer Más</a>
                  </div>
                 </div>        
               </div>        
               <div class="single-practice">
                    <div class="single-practice-content">
                  <i class="fa fa-line-chart"></i>
-                 <h3><a href="single-practice.html">Derecho Administrativo</a></h3>
+                 <h3><a href="single-practice">Derecho Administrativo</a></h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                  <div class="read-more">
-                   <a href="single-practice.html">Leer Más</a>
+                   <a href="single-practice">Leer Más</a>
                  </div>
                 </div>        
               </div>        
               <div class="single-practice">
                    <div class="single-practice-content">
                  <i class="fa fa-users"></i>
-                 <h3><a href="single-practice.html">Derecho Civil y Mercantil</a></h3>
+                 <h3><a href="single-practice">Derecho Civil y Mercantil</a></h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                  <div class="read-more">
-                   <a href="single-practice.html">Leer Más</a>
+                   <a href="single-practice">Leer Más</a>
                  </div>
                 </div>
               </div>

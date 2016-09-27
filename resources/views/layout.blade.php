@@ -81,8 +81,8 @@
                   <div class="header-top-right">
                     <nav>
                       <ul>
-                        <li><a href="login.html">Iniciar Sesión</a></li>
-                        <li><a href="registration.html">Registrar</a></li>
+                        <li><a href="login">Iniciar Sesión</a></li>
+                        <li><a href="registro">Registrar</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -109,7 +109,7 @@
                                           <li><a href="areas">Áreas de Práctica</a>
                                             <ul class="text-center">
                                                 <li><a href="single-practice">Civil</a></li>                                                
-                                                <li><a href="single-practice-left-sidebar">Amparo</a></li>
+                                                <li><a href="practicas-izquierdo">Amparo</a></li>
                                                 <li><a href="single-practice">Familiar</a></li>
                                                 <li><a href="single-practice">Laboral</a></li>
                                                 <li><a href="single-practice">Notarial</a></li>
@@ -268,7 +268,7 @@
               </div>
               <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 <div class="footer footer-three">
-                  <h2>Contáctenos</h2>
+                  <h2>Contáctanos</h2>
                   <ul>
                     <li><i class="fa fa-clock-o"></i> Lun-Sab</li>
                     <li><i class="fa fa-map-marker"></i> Calle Ángel Mario Martínez Zentella 19, Tabasco, MX CP 86096</li>
@@ -336,6 +336,7 @@
         ============================================ -->        
         <script src="assets/custom-slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
         <script src="assets/custom-slider/home.js" type="text/javascript"></script>
+        <script src="assets/js/abogados.js" type="text/javascript"></script>
     <!-- main JS
     ============================================ -->    
         <script src="assets/js/main.js"></script>

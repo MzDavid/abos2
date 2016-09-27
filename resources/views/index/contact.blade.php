@@ -26,7 +26,7 @@
             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
               <div class="contact-form-area">
                 <h2>Formulario de Contácto</h2>
-                  <form action="http://radiustheme.com/demo/html/miakolegal/miakolegal/process.php" method="POST">
+                  <form method="post" id="contactForm">
                     <fieldset>
                       <div class="col-sm-12">
                         <div class="form-group">
@@ -43,7 +43,7 @@
                       <div class="col-sm-12">
                         <div class="form-group">
                           <label>Número de Teléfono : </label>
-                          <input type="tel" name="telephone" class="form-control" required>
+                          <input type="tel" name="tel" class="form-control" required>
                         </div>
                       </div>
                       <div class="col-sm-12">
@@ -67,7 +67,7 @@
                 <ul>
                   <li><a href="#"><i class="fa fa-map-marker"></i><span>Calle Ángel Mario Martínez Zentella 19, Tabasco, MX CP 86096</span></a></li>
                   <li><a href="#"><i class="fa fa-phone"></i><span>(993) 315 2580</span></a></li>
-                  <li><a href="#"><i class="fa fa-envelope-o"></i><span>info@miakolegalr.com</span></a></li>
+                  <li><a href="#"><i class="fa fa-envelope-o"></i><span>info@morenomontero.com</span></a></li>
                   <li><a href="#"><i class="fa fa-building-o"></i><span>(123) 456 789 0000</span></a></li>
                 </ul>
               </div>
